@@ -1,0 +1,11 @@
+---
+title:"Neuroaesthetic Indicators from the Perspective of Two-Stage Process Theory: N2 and LPP can Predict Aesthetic Judgment of Human–Computer Interfaces"
+author: "Yanci Liu, Fei Teng, Shiyu Zhang, Feng Du"
+date: "2023-07-21"
+categories:
+  - Published Articles
+  - EEG
+image: "AES.jpg"
+description: This study presented 101 participants with either interfaces or scrambled interfaces to purify the effects of aesthetic judgment. Both N2 and LPP showed a significant interaction between aesthetic level (aesthetic, medium, and unaesthetic) and image type (interface and scramble). More specifically, N2 was more enhanced for aesthetic interfaces than for medium and unaesthetic interfaces, while N2 for the three types of scrambles showed no difference. Similarly, LPP for aesthetic and medium interfaces was more positive than for unaesthetic interfaces, but LPP for the three kinds of scrambled images showed no significant differences. The results of four classification models consistently showed that N2 and LPP could more accurately classify four different interface types than N1 and P2. These patterns indicated that both N2 and LPP are ERP correlates for aesthetic appreciation, indicating that aesthetic and unaesthetic interfaces might evoke differences in both the early attentional and later evaluation stages.
+doi: 10.1080/10447318.2024.2364138
+---
