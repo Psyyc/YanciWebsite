@@ -1,0 +1,10 @@
+---
+title: "Emotional States Affect the Degree of Duration Distortion More Than Distortion Direction: A Meta-Analytic Research"
+author: "Yanci Liu. Siyu Ma. Meihong Zheng"
+date: "2025-02-16"
+categories:
+  - Published Articles
+  - Time Perception
+image: "meta24.jpg"
+description: The impact of induced emotional states on duration perception remains unclear. This study investigated duration distortion in emotional states through two meta-analyses based on 17 English articles (28 studies) retrieved from the PubMed and Web of Science databases, published up to March 19, 2024. Meta-Analysis 1 examined both the distortion direction (i.e., underestimation or overestimation compared to neutral states) and the distortion degree (i.e., the extent to which perceived duration deviated from that in neutral states). Meta-Analysis 2 focused solely on the degree of distortion. The results indicated that when both the direction and degree were considered, the findings on duration distortion in emotional states were inconsistent. However, when the direction of distortion was not considered, there was a significant effect on the degree of duration distortion in emotional states. Moderator analysis revealed that the emotional valence moderated the effect size of emotion states on the degree of duration distortion, regardless of whether the direction of distortion was considered. While duration measurement paradigm only moderates the degree of duration distortion without direction. Specifically, the duration overestimation effect was observed in negative states when the distortion direction was considered. A greater distortion degree was observed in negative emotional states or duration judgment tasks. However, neither emotional arousal nor the duration itself moderated the distortion degree, irrespective of whether the direction of distortion was considered. These findings underscore the importance of considering the influence of induced emotional states on the degree of duration distortion, in addition to the direction.
+---

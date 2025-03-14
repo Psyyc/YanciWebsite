@@ -1,0 +1,15 @@
+---
+title: "Factors influencing passage of time judgment in individuals’ daily
+lives: evidence from the experience sampling and diary methods"
+author: "Yanci Liu. Siyu Ma. Jiayu Li. Xi Song. Feng Du. Meihong Zheng"
+date: "2023-07-19"
+categories:
+  - Published Articles
+  - Time Perception
+image: "ESM24.png"
+description: People often express feeling that time passes quickly or slowly in their daily lives, which is termed passage of time judgment (PoTJ). Past studies have shown that PoTJ is affected by emotional valence and arousal; however, few studies have verified the effects of alertness, attention to time, and time expectation on PoTJ and whether the effects are stable over different time periods. Using the experience sampling method (ESM) and diary method, the present study collected data from 105 participants and examined for the first time whether alertness, attention to time, and time expectation affect PoTJ based on daily life data, as well as whether above factors, emotional valence, and arousal are stable over different time periods. All participants answered a questionnaire five times a day on their in-the-day PoTJ and related factors regarding the last 30 min, and answered the same questionnaire once a day at 23:00 regarding the of-the-day PoTJ. The results showed that alertness and time expectation, as well as emotional valence and arousal, predicted an individual's in-the-day PoTJ over a shorter period (i.e., the last 30 min); in contrast, only time expectation and emotional arousal predicted of-the-day PoTJ over a longer period (i.e., the past day). These results suggest that, alertness and time expectation are important factors influencing PoTJ, in addition to emotional state. Of-the-day PoTJ correlates most strongly with the mean and latest in-the-day PoTJ, implying that overall perception of time passage is influenced by both cumulative temporal experience and recent temporal experience.
+doi: 10.1007/s00426-023-01859-z.
+---
+
+
+
